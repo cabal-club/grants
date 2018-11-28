@@ -48,6 +48,14 @@ Distributed: USA (west coast; east coast), Sweden, Germany
 
 > 6. If accepted, how will you utilize the grant? 
 
+The grant would be portioned up into three spending funds: Maintenance, Development, Utilities. The funds would be split up with 45% going to maintenance, 45% to development, and the remaining 10% for utilities.
+
+Utilities would be comprised of smaller sums such as renting a VPS to help in testing protocol changes and host a mumble server for our weekly community call. It would also be used for more marketing-related expenses such as printing stickers to be shared at conventions and meetups e.g. the Chaos Communication Congress.
+
+The Maintenance and Development funds would pay individuals for work on the project. The Maintenance fund would pay out a base rate for a 6h work day. It would be a lower rate than the equivalent development work, but it would also last longer. Development milestones (such as implementing a web client) from the roadmap would be split up into sub-goals, and each sub-goal would be roughly estimated at an amount of 6-hour days, which would then be translated into what achieving that sub-goal would pay out. There would be two payouts per sub-goal, half at the start and the other half at the finish. 
+
+We would favour achieving many smaller goals over larger goals, to prevent burnout, make it easier for new contributors to enter the project and to increase the effiency of the payouts. The spending would also be transparently documented in e.g. a git repository (GitLab, GitHub).
+
 TODO: discuss this
 
 > 7. Tell us your story: how long have you been working on this project, how is the community involved, or any other detail you want.
@@ -67,4 +75,5 @@ TODO: discuss this
 > 11. How should we contact you (e-mail or other)? 
 
 TODO: who wants to be the contact for this?
+* cblgh can
 
