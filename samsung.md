@@ -34,6 +34,8 @@ Cabal is trying to be a secure, peer-to-per community chat platform. What this m
   - messages can be sent offline, and sync to other peers whenever they become available
   - can chat & sync with peers who are on the local network, even if no internet connection is available
   - first time users will receive all the history when they connect with the others of a cabal
+- works today
+  - cabal is a thing that exists today! we use it daily to chat about development and other topics
 
 Not all of these features are implemented, but make up the core of our roadmap.
 
@@ -61,8 +63,6 @@ Development milestones (such as implementing a web client) from the roadmap woul
 
 We would favour achieving many smaller goals over larger goals, to prevent burnout, make it easier for new contributors to enter the project and to increase the effiency of the payouts. The spending would also be transparently documented in e.g. a git repository (GitLab, GitHub).
 
-TODO: discuss this
-
 > 7. Tell us your story: how long have you been working on this project, how is the community involved, or any other detail you want.
 
 The project started in April 2018 with the aims of being a distributed Slack replacement. 
@@ -71,7 +71,7 @@ Since then we've had contributors come in and create a complete mobile app, rede
 
 > 8. What is the most groundbreaking thing about your solution?
 
-It is a free, offline, off-grid Slack that requires no servers - only people and their devices. 
+It is a free, offline, off-grid Slack that requires no servers - only people and their everyday devices. 
 
 > 9. How does your solution further decentralization?
 
