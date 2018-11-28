@@ -7,7 +7,8 @@ Cabal.
 
 Cabal enables every community to have their own chat platform. It's like Slack, but free and decentralized.
 
-Cabal replaces reliance on centralized services and any need to setup or pay for servers. Everything happens on and with users' devices.
+Cabal replaces a reliance on centralized servers as well as any need to setup or pay for your own servers.  
+Everything happens on and with users' devices.
 
 Anyone who has used centralized chat platforms has felt the limitations of their ability to serve users' needs:
 
