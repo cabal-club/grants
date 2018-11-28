@@ -5,6 +5,8 @@ Cabal.
 
 > 2. Give us your high-level pitch and tell us what problem you're trying to solve
 
+Cabal brings chat platforms to the entire world, instead of just the Global North.
+
 Anyone who has used centralized chat platforms has felt the limitations of their ability to serve users' needs:
 
 - corporate-run servers 
