@@ -1,4 +1,4 @@
-> 1. First, tell us your project's name. 
+> 1. First, tell us your project's name.
 
 Cabal.
 
@@ -7,12 +7,12 @@ Cabal.
 
 Cabal enables every community to have their own chat platform. It's like Slack, but free and decentralized.
 
-Cabal replaces a reliance on centralized servers as well as any need to setup or pay for your own servers.  
+Cabal replaces a reliance on centralized servers as well as any need to setup or pay for your own servers.
 Everything happens on and with users' devices.
 
 Anyone who has used centralized chat platforms has felt the limitations of their ability to serve users' needs:
 
-- corporate-run servers 
+- corporate-run servers
   - vulnerable to state surveillance, and
   - corporate monetization of user data
 - online only
@@ -68,13 +68,13 @@ We would favour achieving many smaller goals over larger goals, to prevent burno
 
 > 7. Tell us your story: how long have you been working on this project, how is the community involved, or any other detail you want.
 
-The project started in April 2018 with the aims of being a distributed Slack replacement. 
+The project started in April 2018 with the aims of being a distributed Slack replacement.
 
-Since then we've had contributors come in and create a complete mobile app, redesign the desktop interface, create an irc proxy, or simply contribute small user experience fixes in the various clients. It's difficult to estimate, but we've had probably 20-30 people come in and offer up contributions. The cabal-club GitHub organization itself has 10 members. 
+Since then we've had contributors come in and create a complete mobile app, redesign the desktop interface, create an IRC proxy, or simply contribute small user experience fixes in the various clients. It's difficult to estimate, but we've had probably 20-30 people come in and offer up contributions. The cabal-club GitHub organization itself has 10 members.
 
 > 8. What is the most groundbreaking thing about your solution?
 
-It is a free, offline, off-grid Slack that requires no servers - only people and their everyday devices. 
+It is a free, offline, off-grid Slack that requires no servers - only people and their everyday devices.
 
 > 9. How does your solution further decentralization?
 
@@ -82,14 +82,14 @@ It allows any community to create their own chat platform and without needing to
 
 Since it's open source and with an easily modifiable codebase, communities can change existing clients or write completely new ones without needing to rewrite the technically challenging aspects such as the distributed database or the peer discovery.
 
-> 10. Where can we find you online (social media, Gitlab, Github, etc.)? 
+> 10. Where can we find you online (social media, Gitlab, Github, etc.)?
 
-- Github: khttps://github.com/cabal-club
+- GitHub: https://github.com/cabal-club
 - Twitter: @cblgh @okdistribute @nickwarner @noffle 
-- irc: #cabal-chat on freenode
+- IRC: #cabal-chat on freenode
 
-> 11. How should we contact you (e-mail or other)? 
+> 11. How should we contact you (e-mail or other)?
 
 TODO: who wants to be the contact for this?
-* cblgh 
+* cblgh
 
