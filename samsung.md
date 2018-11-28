@@ -5,7 +5,9 @@ Cabal.
 
 > 2. Give us your high-level pitch and tell us what problem you're trying to solve
 
-Cabal brings chat platforms to the entire world, instead of just the Global North.
+Cabal enables every community to have their own chat platform. It's like Slack, but free and decentralized.
+
+Cabal replaces reliance on centralized services and any need to setup or pay for servers. Everything happens on and with users' devices.
 
 Anyone who has used centralized chat platforms has felt the limitations of their ability to serve users' needs:
 
