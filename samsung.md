@@ -80,16 +80,17 @@ It is a free, offline, off-grid Slack that requires no servers - only people and
 
 It allows any community to create their own chat platform and without needing to rely on external servers. All they need is the devices they will chat with. Despite not having any servers, anyone joining will still get the entire chat history to read through.
 
+Access and permissions are handled through cryptography: anyone with the discovery key for a cabal can find its peers, and peers can privately message each other using each party's public key for encryption & their private key for decryption. In the future, we want to have separate read vs write vs discovery keys, to let people manage the various levels of permissions on their cabal.
+
 Since it's open source and with an easily modifiable codebase, communities can change existing clients or write completely new ones without needing to rewrite the technically challenging aspects such as the distributed database or the peer discovery.
 
 > 10. Where can we find you online (social media, Gitlab, Github, etc.)?
 
 - GitHub: https://github.com/cabal-club
-- Twitter: @cblgh @okdistribute @nickwarner @noffle 
+- Twitter: @cblgh @okdistribute @nickwarner @noffle
 - IRC: #cabal-chat on freenode
 
 > 11. How should we contact you (e-mail or other)?
 
-TODO: who wants to be the contact for this?
-* cblgh
+sww@eight45.net
 
