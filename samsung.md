@@ -22,7 +22,7 @@ Anyone who has used centralized chat platforms has felt the limitations of their
   - difficult to create safe spaces
   - users are often left with little control except appealing to the corporation to help in abusive situations
 
-Cabal is trying to be a secure, peer-to-per community chat platform. What this means is, cabal
+Cabal is trying to be a secure, peer-to-peer community chat platform. What this means is, cabal
 
 - works without servers
   - anyone can start a new chat room (i.e. a cabal)
