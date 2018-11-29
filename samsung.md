@@ -79,7 +79,7 @@ It is a free, offline, off-grid Slack that requires no servers - only people and
 
 > 9. How does your solution further decentralization?
 
-It allows any community to create their own chat platform and without needing to rely on external servers. All they need is the devices they will chat with. Despite not having any servers, anyone joining will still get the entire chat history to read through.
+Cabal allows any community to create their own chat platform and without needing to rely on external servers. All they need is the devices they will chat with. Despite not having any servers, anyone joining will still get the entire chat history to read through.
 
 Access and permissions are handled through cryptography: anyone with the discovery key for a cabal can find its peers, and peers can privately message each other using each party's public key for encryption & their private key for decryption. In the future, we want to have separate read vs write vs discovery keys, to let people manage the various levels of permissions on their cabal.
 
