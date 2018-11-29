@@ -18,6 +18,7 @@ Anyone who has used centralized chat platforms has felt the limitations of their
 - online only
   - unusable in offline situations (train/plane/river boat/rural community)
   - unusable even when there is a local network, but no internet connection
+  - unusable during outages, despite continent-wide infrastructure
 - ungovernable
   - difficult to create safe spaces
   - users are often left with little control except appealing to the corporation to help in abusive situations
@@ -25,8 +26,8 @@ Anyone who has used centralized chat platforms has felt the limitations of their
 Cabal is trying to be a secure, peer-to-peer community chat platform. What this means is, cabal
 
 - works without servers
-  - anyone can start a new chat room (i.e. a cabal)
-  - nobody needs to own or know how to run a server to participate or create a cabal
+  - anyone can start a new chat room (i.e. a cabal) *and* any number of chat rooms
+  - nobody needs to own or know how to run a server to participate in or create a cabal
   - servers CAN be set up though, and act like amplifiers to boost the reach of the cabal
 - is secure
   - all cabals are private and undiscoverable by default
@@ -68,7 +69,7 @@ We would favour achieving many smaller goals over larger goals, to prevent burno
 
 > 7. Tell us your story: how long have you been working on this project, how is the community involved, or any other detail you want.
 
-The project started in April 2018 with the aims of being a distributed Slack replacement.
+The project started in April 2018 with the aim of being a distributed Slack replacement.
 
 Since then we've had contributors come in and create a complete mobile app, redesign the desktop interface, create an IRC proxy, or simply contribute small user experience fixes in the various clients. It's difficult to estimate, but we've had probably 20-30 people come in and offer up contributions. The cabal-club GitHub organization itself has 10 members.
 
