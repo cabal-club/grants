@@ -18,7 +18,7 @@ _What are the key deliverables? What are the core milestones towards accomplishi
 _How will your proposed project impact this focus area? How will you know you have succeeded in having this impact?_
 * Broaden access
 * Increase security
-* Empower users
+* **Empower users** <-- this??
 * Not applicable
 
 ### How do you plan to spend the requested funds?
