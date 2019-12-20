@@ -17,10 +17,11 @@ _What are the key deliverables? What are the core milestones towards accomplishi
 ### MOSS funds technologists that are working to broaden access, increases security, and empower users. On which of these areas does your project focus? [Please select one]
 _How will your proposed project impact this focus area? How will you know you have succeeded in having this impact?_
 * Broaden access
-* Increase security
-* **Empower users** <-- this??
+* **Increase security** <-- this??
+* Empower users
 * Not applicable
 
+<!-- todo: okdistribute: you would need to add the caveat that 3rd parties could still potentially eavesdrop on who is talking to whom but perhaps that's an area of research to discuss.. -->
 ### How do you plan to spend the requested funds?
 _List key budget categories, the amount requested per category, and an explanation of how you calculated the total requested per category._
 
